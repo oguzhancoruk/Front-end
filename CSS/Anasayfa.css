@@ -1,0 +1,31 @@
+.bodyy 
+{
+   background-color: darkcyan;
+    text-align:center;
+   
+    
+    list-style-position: inside;
+}
+.text1
+{
+    font-size: 25px;
+}
+.text2 
+{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.takımlar
+{
+    margin-right: 35px;
+}
+.anasayfa
+{
+    margin-right: 3px;
+}
+.team{margin-left: 3;
+
+}
+.boyut
+{width: 150px;
+height: 150px;}

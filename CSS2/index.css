@@ -1,0 +1,86 @@
+.image
+{
+ margin-left: 37%;
+}
+
+
+.box1 {
+    width:1200px;
+    background-color: rgb(212, 212, 238);
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+.text
+{
+    text-align: center;
+    font-weight: bold;
+}
+.input
+{ 
+  margin-left:450px;
+  width: 300px;
+ 
+}
+.button1
+{
+    margin-left:480px;
+    width: 125px;
+}
+.button2
+{
+    width: 125px;
+}
+.clear{clear:both}
+.box2
+{    background-color: rgb(141, 231, 219);
+    width: 500px;
+    float: left; 
+    height: 76px;
+    margin-left: 75px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    
+}
+.box3
+{
+    background-color: rgb(74, 197, 228);
+width: 190px;
+float: left;
+height: 76px;
+margin-left: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 13px;
+padding-bottom: 2px;
+
+
+}
+.box4
+{   background-color: rgb(37, 139, 134);
+    width: 500px;  
+    float: left;
+    height: 76px;
+    margin-left: 5px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    
+}
+.box_4
+{
+    float:left;
+    margin-left:33%;
+    
+}
+.box_button
+{
+    float: left;
+    margin-left: 33%;
+}
+.footer
+{
+    margin-top: 50px;
+    text-align: center;
+}

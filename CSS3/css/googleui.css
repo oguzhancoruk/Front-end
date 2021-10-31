@@ -1,0 +1,271 @@
+body {
+    margin: 0px 0 0px 30px;
+    padding: 15px 0px 15px 0;
+}
+
+.font-size {
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
+
+a.link {
+    color: none;
+}
+
+.right {
+    position: relative;
+    right: -1600px;
+}
+
+button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.searchbar{
+  height:45px;
+  border:none;
+  width:500px;
+  font-size:16px;
+  outline: none;
+}
+
+.bar{
+    margin:0 auto;
+    width:575px;
+    border-radius:30px;
+    border:1px solid #dcdcdc;
+
+  }
+
+  .bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+  .bar:focus-within{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    outline:none;
+  }
+  .searchbar{
+    height:45px;
+    border:none;
+    width:500px;
+    font-size:16px;
+    outline: none;
+    
+  }
+  .voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:10px;
+  }
+
+  .searchbutton{
+      width: 127.41px;
+      height: 36px;
+      margin: 11px 4px;
+      padding: 0px 16px;
+      background-color: #F2F2F2;
+  }
+
+  #signin{
+      width: 75px;
+      height: 30px;
+      padding: 0 15 0 15px;
+      background-color: rgb(88, 125, 245);
+      color: white;
+  }
+
+  .footer{
+      border-radius: 1px;
+      border-color: black;
+      height: 40px;
+      background-color: rgb(231, 230, 230);
+      margin: 0 0 0 -30px;
+      
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    
+  }
+  .QCzoEc {
+    margin-top:3px;
+    color: #9aa0a6;
+    height: 20px;
+    width: 20px;}
+.z1asCe {
+  display: inline-block;
+  fill: currentColor;
+  height: 50px;
+  line-height: 50px;
+  position: relative;
+  width: 50px;
+  float: left;
+}
+.div1
+{
+  display: inline-block;
+  flex-grow: 1;
+ 
+}
+.div2 
+{
+  
+    padding-left: 32px;
+    box-sizing: border-box;
+    height: 48px;
+    line-height: normal;
+  float: right;
+    padding-top: 0px;
+    padding-right: 4px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    justify-content: flex-end;
+    vertical-align: middle;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    -webkit-user-select: none;
+    font: 13px/27px
+ Roboto,RobotoDraft,Arial,sans-serif;
+    z-index: 986;
+    color: black;
+    min-width: 320px;
+    position: relative;
+    transition: box-shadow 250ms;
+    background-color: blue;
+ 
+}
+.div_3 
+{
+  font-family: arial,sans-serif;
+    line-height: normal;
+    padding-right: 15px;
+    display: block;
+    white-space: nowrap;
+    font: 13px/27px
+ Roboto,RobotoDraft,Arial,sans-serif;
+ float: right;
+
+
+
+}
+.div4 
+{
+  display: inline-block;
+  padding-left: 15px;
+  font-family: arial,sans-serif;
+    line-height: normal;
+  
+}
+.div5
+{
+
+  position: relative;
+  line-height: normal;
+  white-space: nowrap;
+  -webkit-user-select: none;
+}
+.div6 
+{
+  display: inline;
+  line-height: normal;
+  -webkit-user-select: none;
+
+  white-space: nowrap;
+}
+.div7
+{
+  padding-left:4px;
+  padding: 4px;
+  display: inline-block;
+    vertical-align: middle; 
+    line-height: normal;
+    white-space: nowrap;
+  -webkit-user-select: none;
+  float: right;
+}
+.gb_pa svg, .gb_Ac svg, .gb_Wc .gb_Zd, .gb_Mc .gb_Zd {
+  color: #5f6368;
+  opacity: 1;
+  fill: currentColor;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+#gb#gb a.gb_C {
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+.gb_B .gb_C, .gb_B .gb_C:hover, .gb_B .gb_C:focus {
+  opacity: 1;
+}
+.gb_B .gb_C, .gb_D .gb_B .gb_C {
+  background-position: -64
+px
+-29
+px
+;
+}
+.gb_C {
+  display: inline-block;
+  outline: none;
+  vertical-align: middle;
+  -webkit-border-radius: 2
+px
+;
+  border-radius: 2
+px
+;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 40
+px
+;
+  width: 40
+px
+;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+a.pHiOh {
+  color: #70757a;
+}
+.pHiOh {
+  display: block;
+  padding: 15
+px
+;
+  white-space: nowrap;
+  
+}
+a {
+ 
+  text-decoration: none;
+  text-align: center;
+}
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+ 
+  text-align: center;
+  
+}
+.AghGtd {
+ 
+ 
+  order: 1;;
+  text-align: center;
+}
+
+.KxwPGc {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+}
